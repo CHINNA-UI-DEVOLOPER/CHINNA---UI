@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" 
+content="width=device-width, 
+initial-scale=1.0">
+ <title>Document</title>
+</head>
+<body>
+ <h1> CREAT LOGIN form</h1>
+ <form >
+ <label for="enter frist 
+name"></label> <br> 
+ <input type="text"label=" 
+"placeholder="frist name"> <br><br>
+ <label for="enter last 
+name"></label> <br> 
+ <input type="text"label=" 
+"placeholder="last name"> <br><br>
+ <label for="enter Email 
+id"></label><br>
+ <input type="text"label=" 
+"placeholder="Email"><br><br>
+ <label for="enter mobile 
+number"></label><br>
+ <input type="text"label=" 
+"placeholder="mobile number"><br><br>
+ <label for="enter user 
+name"></label><br>
+ <input type="text"label=" 
+"placeholder="user name"><br><br>
+ <label for="enter 
+password"></label><br>
+ <input type="text"label=" 
+"placeholder="password"><br><br>
+ 
+ <input 
+type="Submit"label="SUBMIT"> <br><br>
+ <input type="Reset"label=" 
+CANCEL"> <br><br>
+ </form>
+ 
+</body>
+</html>
